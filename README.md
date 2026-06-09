@@ -37,18 +37,19 @@
   <img src="https://img.shields.io/badge/sqlmap-181818?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nikto-181818?style=for-the-badge" />
   <img src="https://img.shields.io/badge/aircrack--ng-181818?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lex_%26_Bison-5C2D91?style=for-the-badge" />
 </p>
 
 ### GitHub Stats 🌱
 
 <p align="left">
   <a href="https://github.com/AbbaShelHelek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvalThePro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaShelHelek&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/AbbaShelHelek">
-    <img src="https://github-readme-stats.vercel.app/api?username=YuvalThePro&show_icons=true&theme=dark&hide_border=true" alt="Yuval's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbbaShelHelek&show_icons=true&theme=dark&hide_border=true" alt="Yuval's GitHub Stats" />
   </a>
 </p>
 
@@ -56,9 +57,9 @@
 
 ### 📂 Technical Portfolio
 
-*   **[Immutable-Credentials-Blockchain](https://github.com/YuvalThePro/Immutable-Credentials-Blockchain):** A decentralized blockchain architecture developed in **Java** designed for the secure, immutable issuance and management of academic credentials.
-*   **[SIEM](https://github.com/YuvalThePro/SIEM):** A Security Information and Event Management tool built with **JavaScript** to aggregate, monitor, and analyze security telemetry and system events.
-*   **[SIEM-ReactNative](https://github.com/YuvalThePro/SIEM-ReactNative):** A mobile-focused fork of the core SIEM project, migrating the event monitoring and telemetry platform into a robust, cross-platform mobile application using **React Native**.
-*   **[StealthChat](https://github.com/YuvalThePro/StealthChat):** A native communication application developed in **C++**, demonstrating low-level systems programming and application architecture.
-*   **[CommuniTask](https://github.com/YuvalThePro/CommuniTask):** A comprehensive task and organizational management platform.
+*   **[Immutable-Credentials-Blockchain](https://github.com/AbbaShelHelek/Immutable-Credentials-Blockchain):** A decentralized blockchain architecture developed in **Java** designed for the secure, immutable issuance and management of academic credentials.
+*   **[SIEM](https://github.com/AbbaShelHelek/SIEM):** A Security Information and Event Management tool built with **JavaScript** to aggregate, monitor, and analyze security telemetry and system events.
+*   **[SIEM-ReactNative](https://github.com/AbbaShelHelek/SIEM-ReactNative):** A mobile-focused fork of the core SIEM project, migrating the event monitoring and telemetry platform into a robust, cross-platform mobile application using **React Native**.
+*   **[StealthChat](https://github.com/AbbaShelHelek/StealthChat):** A native communication application developed in **C++**, demonstrating low-level systems programming and application architecture.
+*   **[CommuniTask](https://github.com/AbbaShelHelek/CommuniTask):** A comprehensive task and organizational management platform.
 *   **[Compiler-C-style-language](https://github.com/israel0700609/Compiler-C-style-language):** A collaborative project developing a foundational compiler for a C-style language, built using **C**, **Lex**, and **Bison**.
