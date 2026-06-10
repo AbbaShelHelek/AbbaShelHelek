@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/sqlmap-181818?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nikto-181818?style=for-the-badge" />
   <img src="https://img.shields.io/badge/aircrack--ng-181818?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lex_%26_Bison-5C2D91?style=for-the-badge" />
 </p>
 
 ### 🔬 Professional & Academic Focus
