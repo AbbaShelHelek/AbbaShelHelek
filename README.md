@@ -4,7 +4,6 @@
 ⚙️ Specializing in low-level programming, C/C++ memory management, and compiler design.
 🛡️ Active in offensive security, vulnerability research, and practical penetration testing.
 🌐 Dabbling in full-stack development to build comprehensive, resilient applications.
-📫 Open to collaborating on sophisticated software projects or discussing advanced cybersecurity concepts!
 
 ### Tech Stack 💻
 
@@ -60,3 +59,6 @@
 *   **[StealthChat](https://github.com/AbbaShelHelek/StealthChat):** A native communication application developed in **C++**, demonstrating low-level systems programming and application architecture.
 *   **[CommuniTask](https://github.com/AbbaShelHelek/CommuniTask):** A comprehensive task and organizational management platform.
 *   **[Compiler-C-style-language](https://github.com/israel0700609/Compiler-C-style-language):** A collaborative project developing a foundational compiler for a C-style language, built using **C**, **Lex**, and **Bison**.
+
+---
+*Always open to collaborating on sophisticated software projects, discussing advanced cybersecurity concepts, or tackling complex architectural challenges.*
