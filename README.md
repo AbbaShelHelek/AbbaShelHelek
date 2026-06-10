@@ -2,7 +2,7 @@
 
 🎓 B.Sc. Software Engineering student bridging theoretical concepts and practical systems architecture.
 ⚙️ Specializing in low-level programming, C/C++ memory management, and compiler design.
-🛡️ Active in offensive security, vulnerability research, and CTFs (HTB, pwnable.kr, picoCTF).
+🛡️ Active in offensive security, vulnerability research, and practical penetration testing.
 🌐 Dabbling in full-stack development to build comprehensive, resilient applications.
 📫 Open to collaborating on sophisticated software projects or discussing advanced cybersecurity concepts!
 
@@ -40,18 +40,16 @@
   <img src="https://img.shields.io/badge/Lex_%26_Bison-5C2D91?style=for-the-badge" />
 </p>
 
-### GitHub Stats 🌱
+### 🔬 Professional & Academic Focus
 
-<p align="left">
-  <a href="https://github.com/AbbaShelHelek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbaShelHelek&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/AbbaShelHelek">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbbaShelHelek&show_icons=true&theme=dark&hide_border=true" alt="Yuval's GitHub Stats" />
-  </a>
-</p>
+*   **Vulnerability Research & Analysis:** Conducting deep-dive analyses into application security flaws, with practical experience exploiting complex vectors like prototype pollution.
+*   **Offensive Security Operations:** Engineering reverse TCP connections, developing custom payloads, and utilizing advanced frameworks (Metasploit) to simulate threat actor behaviors in controlled environments (HTB, pwnable.kr, picoCTF).
+*   **Low-Level Systems Architecture:** Designing foundational software architectures in C and C++, focusing on explicit memory management, application resilience, and native compiler design.
+
+### 🏗️ Core Methodologies
+
+*   **Secure by Design:** Bridging the gap between software engineering and cybersecurity by integrating security principles directly into the architectural phase of decentralized and full-stack applications.
+*   **Cross-Disciplinary Engineering:** Leveraging a strong academic foundation (Automata, Data Structures, Discrete Mathematics, Intro to Compiling, Algorithms and more) to solve complex programming challenges, from foundational compilers to cross-platform mobile telemetry (React Native).
 
 ---
 
